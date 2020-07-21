@@ -1,3 +1,4 @@
 # NLP-Project
-#Dataset
-due to
+# Dataset
+
+This project was usin the dataset: [Kaggle Dataset](https://www.kaggle.com/rmisra/news-category-dataset)

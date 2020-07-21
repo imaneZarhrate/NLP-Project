@@ -6,7 +6,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
 from sklearn.svm import LinearSVC
-from sklearn.linear_model import LogisticRegression
 
 #Bag of Word : Transforme le corpus en sac de mots 
 bow = CountVectorizer(ngram_range=(1,3))

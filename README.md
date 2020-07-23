@@ -20,3 +20,4 @@ pip3 install pandas
 pip3 install numpy
 
 ```
+[Video/Présentation](https://drive.google.com/file/d/1ujO3gSbCfIElvb75MZcierHYx1dFxXba/view?usp=sharing)
